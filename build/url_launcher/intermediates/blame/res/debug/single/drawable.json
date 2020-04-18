@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/lucasreinaldo/lojavirtual/compre_ai/build/url_launcher/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/lucasreinaldo/.gradle/caches/transforms-2/files-2.1/dc13d8ee04a9df52138ccde1b14140a9/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/lucasreinaldo/lojavirtual/compre_ai/build/url_launcher/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/lucasreinaldo/.gradle/caches/transforms-2/files-2.1/dc13d8ee04a9df52138ccde1b14140a9/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/lucasreinaldo/lojavirtual/compre_ai/build/url_launcher/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/Users/lucasreinaldo/.gradle/caches/transforms-2/files-2.1/dc13d8ee04a9df52138ccde1b14140a9/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/lucasreinaldo/lojavirtual/compre_ai/build/url_launcher/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/lucasreinaldo/.gradle/caches/transforms-2/files-2.1/dc13d8ee04a9df52138ccde1b14140a9/res/drawable/notification_bg_low.xml"
+    }
+]
